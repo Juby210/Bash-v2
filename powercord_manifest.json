@@ -1,0 +1,9 @@
+{
+    "name": "Bash",
+    "description": "A theme that changes the appearence with discord. Also it has a lot of blurs :-)",
+    "version": "AutoUpdate",
+    "author": "A user#0001",
+    "license": "GNU GPL",
+    "theme": "theme.css",
+    "consent": "false"
+}
