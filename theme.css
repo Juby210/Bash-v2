@@ -691,6 +691,17 @@ html:not(.platform-win) .container-1r6BKw > *{
     overflow:  auto !important;
 }
 
+/* --+ Submenu padding fix*/
+.submenuPaddingContainer-fiOCHc {
+    position: relative;
+    left: -8px;
+}
+
+/* reset for submenus in submenu */
+.submenuPaddingContainer-fiOCHc > div > div > div > div > .submenuPaddingContainer-fiOCHc {
+    position: static;
+}
+
 /* --+ Itens*/
 .colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O){
     background: linear-gradient(90deg, #fff3, #fff1);
